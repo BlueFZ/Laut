@@ -1,0 +1,95 @@
+<html>
+  <title>Logo</title>
+<body>
+  <img src="https://rekreartive.com/wp-content/uploads/2018/10/Logo-Gunadarma-Universitas-Gunadarma-Original-PNG.png" alt="Logo" style="width:200px;height:100px;">
+</body>
+</html>
+
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Abiyyu nabil</title>
+</head>
+ 
+<body>
+  <div id="header">
+    <h1>PENGERTIAN PSIKOLOGI</h1>
+	<h2>ABIYYU NABIL S L</h2>
+  </div>
+     
+  <div id="content">
+    <div id="article_1">
+      <div id="article_header_1">
+        <h2>A. Pengertian Psikologi</h2>
+		<html>
+  <title>Pict 1</title>
+<body>
+  <img src="https://rencanamu.id/assets/file_uploaded/editor/1569741371-hero-psych.png" alt="Pic1" style="width:700px;height:600px;">
+</body>
+</html>
+      </div>
+        <p> Psikologi adalah disiplin ilmu yang mengkaji perilaku manusia dan proses mental manusia. Berikut definisi psikologi menurut ahli, ruang lingkup, jenis, manfaat, dan kaitannya dengan komunikasi.</p>
+    </div>
+	
+	 <div id="content">
+    <div id="article_1">
+      <div id="article_header_1">
+        <h2>B. Tokoh Psikologi</h1>
+     <table border='1'>
+  <tr>
+    <th>No</th>
+    <th>Tokoh</th> 
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Plato</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Aristoteles</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>wilhelm wundt</td>
+  </tr>
+
+</table>
+
+<div id="content">
+    <div id="article_1">
+      <div id="article_header_1">
+        <h2>C. Ruang lingkup psikologi</h2>
+      </div>
+        <p>dalam memahami psikologi, tidak boleh mengabaikan cakupan dari psikologi. Ditinjau dari objek kajiannya, psikologi dapat dilihat pada dua hal, yakni Psikologi yang mempelajari dan menyelidiki manusia, Psikologi yang mempelajari dan menyelidiki hewan, yang lebih tegas disebut sebagai psikologi hewan
+
+
+</p>
+    </div>
+
+<div id="content">
+    <div id="article_1">
+      <div id="article_header_1">
+        <h2>D. Manfaat mempelajari psikologi. </h2>
+      </div>
+        <p>mempelajari psikologi dapat memberikan manfaat bagi manusia. Adapun manfaat tersebut, antara lain bisa memahami diri sendiri dan mengerti penyebab suatu perilaku. Selain itu, psikologi bermanfaat untuk membantu orang lain menyelesaikan masalahnya, menjadikan kehidupan lebih baik dan bahagia, memeroleh paham terkait gejala jiwa dan pengertian yang lebih baik tentang tingkah laku, dan tidak memiliki keraguan dalam mengubah cara hidup, tingkah laku serta pergaulan dalam masyarakat.</p>
+    </div>
+
+
+</body>
+</html>
+  </div>
+ 
+  <div id="sidebar">
+    <h1>Sumber Bacaan</h1>
+      <ul>
+        <li><a href="#">https://katadata.co.id/safrezi/berita/61e9255160797/psikologi-adalah-ilmu-tentang-jiwa-berikut-jenis-dan-manfaatnya</a></li>
+      </ul>
+    </div>
+ 
+ 
+ 
+  <div id="footer">
+    <p>Copyright Abiyyu Nabil Syailendra Ladibo</p>
+  </div>
+</body>
+</html>
