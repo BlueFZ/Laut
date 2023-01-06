@@ -76,11 +76,15 @@ ul li {
 	/* text-align: center; */
 }
 
-header {
+header, footer {
 	background: linear-gradient(to bottom right, #3B3EA1, #00A1BA);
 	padding: 20px;
 	border-radius: 0px 0px 25px 25px;
 	color: rgb(223, 223, 223);
+}
+
+footer {
+	border-radius: 0px 0px 25px 25px;
 }
 
 .card {
