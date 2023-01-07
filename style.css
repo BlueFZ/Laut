@@ -66,14 +66,9 @@ ul {
 }
 
 a {
-	text-decoration: none;
-	/* color: #3B3EA1; */
+	text-decoration: none; 
 	color: white;
 	font-weight: 500;
-}
-
-ul li {
-	/* text-align: center; */
 }
 
 header, footer {
@@ -81,6 +76,7 @@ header, footer {
 	padding: 20px;
 	border-radius: 0px 0px 25px 25px;
 	color: rgb(223, 223, 223);
+	max-width: 100%;
 }
 
 footer {
@@ -93,6 +89,7 @@ footer {
 	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.213);
 	padding: 15px 20px;
 	max-width: 99%;
+	margin-left: 40px;
 }
 
 #art1, #art2, #art3 {
@@ -107,4 +104,11 @@ img {
 
 span {
 	font-weight: 800;
+}
+
+table {
+	border: 1px solid #3B3EA1;
+	color: #00A1BA;
+	text-align: center;
+	margin: 20px;
 }
